@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サイレントシンドローム",
+  "base_artist": "SiLENT←NOiSE",
+  "createdAt": "2026-03-13T01:37:50.818503Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サイレントシンドローム",
+      "artist": "SiLENT←NOiSE",
+      "has_synced": false,
+      "path": "select/pl_01_サイレントシンドローム_SiLENT←NOiSE.txt"
+    }
+  ]
+}
